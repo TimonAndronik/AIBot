@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\AIBot\AIBot\bin\Debug\net8.0\AIBot.exe
+C:\Users\ASUS\source\repos\AIBot\AIBot\bin\Debug\net8.0\AIBot.deps.json
+C:\Users\ASUS\source\repos\AIBot\AIBot\bin\Debug\net8.0\AIBot.runtimeconfig.json
+C:\Users\ASUS\source\repos\AIBot\AIBot\bin\Debug\net8.0\AIBot.dll
+C:\Users\ASUS\source\repos\AIBot\AIBot\bin\Debug\net8.0\AIBot.pdb
+C:\Users\ASUS\source\repos\AIBot\AIBot\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\ASUS\source\repos\AIBot\AIBot\obj\Debug\net8.0\AIBot.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\AIBot\AIBot\obj\Debug\net8.0\AIBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\AIBot\AIBot\obj\Debug\net8.0\AIBot.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\AIBot\AIBot\obj\Debug\net8.0\AIBot.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\AIBot\AIBot\obj\Debug\net8.0\AIBot.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\AIBot\AIBot\obj\Debug\net8.0\AIBot.csproj.Up2Date
+C:\Users\ASUS\source\repos\AIBot\AIBot\obj\Debug\net8.0\AIBot.dll
+C:\Users\ASUS\source\repos\AIBot\AIBot\obj\Debug\net8.0\refint\AIBot.dll
+C:\Users\ASUS\source\repos\AIBot\AIBot\obj\Debug\net8.0\AIBot.pdb
+C:\Users\ASUS\source\repos\AIBot\AIBot\obj\Debug\net8.0\AIBot.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\AIBot\AIBot\obj\Debug\net8.0\ref\AIBot.dll
